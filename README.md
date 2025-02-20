@@ -19,7 +19,9 @@ Magento Selenium TestNG Data-Driven Automation is a test automation framework de
 *   Java - Programming language
 *   Excel/CSV (Data-Driven Testing) - External data handling
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 magento-selenium-testng-pom/
 ├── src/
 │   ├── main/java/pages/        # Page classes
@@ -29,6 +31,7 @@ magento-selenium-testng-pom/
 │   ├── resources/              # Configuration files
 ├── pom.xml                     # Maven dependencies
 ├── testng.xml                  # TestNG test suite configuration
+```
 
 📥 Installation & Setup
 
